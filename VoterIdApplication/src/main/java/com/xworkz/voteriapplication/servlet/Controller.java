@@ -64,6 +64,17 @@ public class Controller extends GenericServlet {
 		if (validate) {
 			RequestDispatcher dispatcher = req.getRequestDispatcher("/final.jsp");
 
+			req.setAttribute("userName", name);
+			req.setAttribute("aadharcardnumber", aadharCardNumber);
+			req.setAttribute("birthdate", dob);
+			req.setAttribute("contactNumber", contactNumber);
+			req.setAttribute("altContactNumber", altContactNumber);
+			req.setAttribute("email", email);
+			req.setAttribute("country", country);
+			req.setAttribute("states", state);
+			req.setAttribute("presentPlace", presentPlace);
+			req.setAttribute("permanentPlace", permanentPlace);
+			req.setAttribute("pincode", pincode);
 			req.setAttribute("voterId", voterID);
 
 			dispatcher.forward(req, res);
@@ -74,3 +85,4 @@ public class Controller extends GenericServlet {
 		}
 	}
 }
+
