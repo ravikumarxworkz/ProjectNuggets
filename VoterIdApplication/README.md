@@ -48,6 +48,8 @@ The Voter ID Application is a web application designed to streamline the process
 6. Review the entered details on the preview page.
 7. Submit the application.
 8. Download the PDF copy of your application.
+   Home Page view
+//   <img src=https://github.com/ravikumarxworkz/my_resume/blob/main/BANNER.jpg alt="logo" height="220" width="1500">
 
 ## Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com.
