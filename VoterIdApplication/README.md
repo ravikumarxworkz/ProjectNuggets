@@ -1,5 +1,5 @@
    
- # 2.Voter ID Application Project
+ # Voter ID Application Project
 
 ## Description
 The Voter ID Application is a web application designed to streamline the process of applying for a voter ID card. It features a user-friendly interface with validation checks to ensure accurate data entry. The application allows users to input personal information, preview their details before submission, and download a PDF copy of their application.
@@ -48,8 +48,28 @@ The Voter ID Application is a web application designed to streamline the process
 6. Review the entered details on the preview page.
 7. Submit the application.
 8. Download the PDF copy of your application.
-   Home Page view
-//   <img src=https://github.com/ravikumarxworkz/my_resume/blob/main/BANNER.jpg alt="logo" height="220" width="1500">
 
+## feature implement technloginces
+1.phone number validation
+2.add your photo and signature in pdf 
+3.add serach option by voter id or aadharc
+
+     # # Home Page view
+      <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/votet%20id%20home%20page.png" alt="Home Page view" >
+##  Apply Voter ID Page
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/votet%20id%20registation%20from.png" alt="Apply Voter ID Page">
+ 
+  ## Preview Page
+   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/reviwe%20and%20sumbit%20page.png" alt="Preview Page">
+    
+  ## Error Page
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/error%20page.png" alt="Error Page">
+
+  ## Final Submission Page
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/success%20page.png" alt="Final Submission Page">
+
+  ## Download pdf iamge
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/download%20pdf%20image.png" alt="Download pdf iamge">
+ 
 ## Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com.
