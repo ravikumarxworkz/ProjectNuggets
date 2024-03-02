@@ -49,26 +49,33 @@ The Voter ID Application is a web application designed to streamline the process
 7. Submit the application.
 8. Download the PDF copy of your application.
 
-## feature implement technloginces
-1.phone number validation
-2.add your photo and signature in pdf 
-3.add serach option by voter id or aadharc
+## Upcoming Features
+1.Enhanced Data Integrity with Phone Number Validation <br>
+      Ensure accuracy and reliability in user contact information.
 
-     # # Home Page view
-      <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/votet%20id%20home%20page.png" alt="Home Page view" >
-##  Apply Voter ID Page
+2.Personalize Documents with Photo and Signature Integration in PDFs <br>
+     Add a personal touch to your documents with easy photo and signature uploads.
+
+3.Seamless Search Functionality Using Voter ID or Aadhaar Card <br>
+   Find and retrieve records effortlessly with advanced ID-based search options.
+
+
+  # # Home Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/votet%20id%20home%20page.png" alt="Home Page view" >
+ 
+##  Apply Voter ID Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/votet%20id%20registation%20from.png" alt="Apply Voter ID Page">
  
-  ## Preview Page
+  ## Preview Page view
    <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/reviwe%20and%20sumbit%20page.png" alt="Preview Page">
     
-  ## Error Page
+  ## Error Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/error%20page.png" alt="Error Page">
 
-  ## Final Submission Page
+  ## Final Submission Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/success%20page.png" alt="Final Submission Page">
 
-  ## Download pdf iamge
+  ## Download pdf iamge view
   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/download%20pdf%20image.png" alt="Download pdf iamge">
  
 ## Contact
