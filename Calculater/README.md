@@ -16,7 +16,8 @@ This project is a simple calculator application implemented in [insert programmi
 3. Run the application.
 4. Input numbers and select the desired operation.
 5. View the result.
-   
+## image view
+<img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/Calculater/images/Screenshot%20(257).png">
 
 
 ## Contact
