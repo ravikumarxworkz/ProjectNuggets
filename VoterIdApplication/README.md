@@ -75,7 +75,7 @@ The Voter ID Application is a web application designed to streamline the process
   ## Final Submission Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/success%20page.png" alt="Final Submission Page">
 
-  ## Download pdf iamge view
+  ## Download pdf image view
   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/VoterIdApplication/images/download%20pdf%20image.png" alt="Download pdf iamge">
  
 ## Contact
