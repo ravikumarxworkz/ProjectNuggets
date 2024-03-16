@@ -1,0 +1,64 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+* {
+   font-family: Arial, sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: Raleway, sans-serif;
+	
+}
+
+
+.navbar {
+	background-color: skyblue;
+}
+#nav-btn {
+	color: white;
+	background-color: hotpink;
+	border-radius: 15px;
+	margin: 10px;
+}
+
+#nav-btn:hover {
+	background-color:deeppink;
+	border-style: double;
+	border-radius: 25px;
+}
+.user-display {
+    color: black; 
+    font-weight: bold;
+}
+.user-display:hover {
+    
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.user-display i {
+    margin-right: 5px;
+    color:deeppink;
+}
+
+.dropdown-item {
+  color: #333; 
+  background-color: #fff; 
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #fff; 
+  background-color: deeppink; 
+}
+
+.dropdown-menu a.dropdown-item:focus, 
+.dropdown-menu a.dropdown-item:hover {
+  background-color: deeppink;
+  color: #fff;
+  border-color: #007bff; 
+}
+
+.dropdown-item {
+  padding: 0.5rem 1rem;
+}
