@@ -1,3 +1,4 @@
+
 # ProjectNuggets
 # WomenSecurityApp
 
@@ -62,6 +63,32 @@ To run the WomenSecurityApp project:
 - Frontend: HTML, CSS, JavaScript
 - Backend: [Insert backend technology here, e.g., Java Servlets, Node.js]
 - Database: [Insert database technology here, e.g., MySQL, PostgreSQL]
+    # # Home Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/main%20page.png" alt="Home Page view" >
+ 
+##  SignIn Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/SignIn.png" alt=" SignIn Page view ">
+ 
+  ## SignUP Page view
+   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/login.png" alt="SignUP Page view">
+    
+  ## profile Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/profile%20page.png" alt="profile Page view">
+
+  ## User profile Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/view%20page.png" alt="profile view Page view">
+
+  ## update page view
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/upadate%20page.png" alt="update page view">
+  
+  ## Safety Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/safty.png" alt=" safty Page view">
+
+  ## complaint page view
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/compalit%20page.png" alt="complaint page view">
+  
+  ## complaint history page view
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/complaint%20history%20page.png" alt="complaint history page view">
 
 ## Contact
-For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com.
+For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com
