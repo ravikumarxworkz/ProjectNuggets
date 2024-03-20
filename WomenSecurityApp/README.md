@@ -61,8 +61,8 @@ To run the WomenSecurityApp project:
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript
-- Backend: [Insert backend technology here, e.g., Java Servlets, Node.js]
-- Database: [Insert database technology here, e.g., MySQL, PostgreSQL]
+- Backend:  Java ,Java Servlets ,JPA
+- Database:  MySQL
     # # Home Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/main%20page.png" alt="Home Page view" >
  
