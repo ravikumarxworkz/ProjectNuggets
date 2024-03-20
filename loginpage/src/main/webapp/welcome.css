@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    outline: none;
+    border: none;
+}
+.mainbody {
+	  background-image: url('https://img.freepik.com/free-photo/motherboard-circuit-technology-background-gradient-blue_53876-124645.jpg?w=826&t=st=1708201515~exp=1708202115~hmac=d6aba278c9fc2ddb0ad2f4e5856cddad6e0395e37dd07f89e060c1d35b6ebcbc');
+       background-size: cover;
+      background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+   /* background: linear-gradient(45deg, #120909, #1b1e50);*/
+}
+.welcome-conatiner{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+	width: 80%;
+	max-width: 600px;
+	padding: 20px;
+     border-radius: 20px;
+     border: 8px double blueviolet;
+	 box-shadow: 10px 10PX 20px rosybrown;
+	/*background-color: palegreen;*/
+	text-align: center; 
