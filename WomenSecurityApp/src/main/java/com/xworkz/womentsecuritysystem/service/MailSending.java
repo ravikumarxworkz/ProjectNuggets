@@ -17,7 +17,7 @@ public class MailSending {
 	public boolean emailVerficationOtp(String email, String otp) {
 		JavaMailSender mailSender = mailConfiguration.mailConfig();
         SimpleMailMessage message = new SimpleMailMessage();
-        message.setFrom("womensecurityapp@gmail.com"); // Set your email here
+        message.setFrom("  "); // Set your email here
         message.setTo(email);
         message.setSubject("Email Verification OTP");
         message.setText("Dear User,\n\n"
@@ -39,7 +39,7 @@ public class MailSending {
 	public boolean mailSend(String email, String username) {
 		JavaMailSender mailSender = mailConfiguration.mailConfig();
 		SimpleMailMessage message = new SimpleMailMessage();
-		message.setFrom("womensecuityapp@gmail.com"); // Set your email here
+		message.setFrom("  "); // Set your email here
 		message.setTo(email);
 		message.setSubject("Thank you for Registering");
 		message.setText("Dear " + username + ",\n\n"
@@ -60,7 +60,7 @@ public class MailSending {
 	public boolean sendOTPEmail(String email, String otp) {
 		JavaMailSender mailSender = mailConfiguration.mailConfig();
 		SimpleMailMessage message = new SimpleMailMessage();
-		message.setFrom("womensecuityapp@gmail.com"); // Set your email here
+		message.setFrom("   "); // Set your email here
 		message.setTo(email);
 		message.setSubject("Password Reset OTP");
 		message.setText("Dear User,\n\n" + "Your OTP for resetting the password is: " + otp + "\n\n"
@@ -79,7 +79,7 @@ public class MailSending {
 	public boolean sendPasswordChangeEmail(String email) {
 		JavaMailSender mailSender = mailConfiguration.mailConfig();
 		SimpleMailMessage message = new SimpleMailMessage();
-		message.setFrom("womensecuityapp@gmail.com"); // Set your email here
+		message.setFrom(" "); // Set your email here
 		message.setTo(email);
 		message.setSubject("Password Changed Successfully");
 		message.setText("Dear " + email + ",\n\n" + "Your password has been successfully changed.\n\n"
@@ -99,7 +99,7 @@ public class MailSending {
 	public boolean sendOTPAdminEmail(String email, String otp, String adminName) {
 		JavaMailSender mailSender = mailConfiguration.mailConfig();
 		SimpleMailMessage message = new SimpleMailMessage();
-		message.setFrom("womensecuityapp@gmail.com"); // Set your email here
+		message.setFrom(" "); // Set your email here
 		message.setTo(email);
 		message.setSubject("admin login  OTP");
 		message.setText("Dear Admin" +"   "+  adminName + "\n\n" + " use this OTP for login: " + otp + "\n\n"
