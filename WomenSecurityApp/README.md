@@ -131,7 +131,22 @@ To run the WomenSecurityApp project:
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/complaint%20history%20table.png" alt="admin compliant histroy Page view">
 
    ## admin compliant status edit Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20complaint%20status.png" alt="admin user Page view">
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20complaint%20status.png" alt="admin compliant status edit Page view">
+
+   ## Email Verification OTP Meassage 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/email%20verification%20otp.png" alt=" email verificstion Page view">
+
+   ##  Register Email Meassge 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/register%20email.png" alt=" email Register Page view">
+
+   ##  Rest Password Email OTP meaasge 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/password%20rest%20email.png" alt=" email Register Page view">
+
+   ##   Password Change successful Email  
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/password%20chnaged%20successfully%20email.png" alt="  Password Change successful Email ">
+
+   ##   Admin Login OTP  Email  Message
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/admin%20login%20otp.png" alt="  Admin Login OTP  Email  Message">
 
 ## Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com
