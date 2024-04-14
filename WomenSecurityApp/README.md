@@ -79,31 +79,59 @@ To run the WomenSecurityApp project:
 - Email Integration:Java Mail Sender Techniques Are Utilized For Email Notifications And Password Reset Functionalities
 - Documentation: Documented Project Functionalities And Setup Instructions For Ease Of Understanding And Replication.
     # # Home Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/main%20page.png" alt="Home Page view" >
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/home%20page.png" alt="Home Page view" >
  
 ##  SignIn Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/SignIn.png" alt=" SignIn Page view ">
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/signIn%20page.png" alt=" SignIn Page view ">
  
   ## SignUP Page view
-   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/login.png" alt="SignUP Page view">
+   <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/SignUp%20page.png" alt="SignUP Page view">
+
     
-  ## profile Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/profile%20page.png" alt="profile Page view">
+   ## forgot password page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/forgot%20password.png" alt="profile Page view">
 
   ## User profile Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/view%20page.png" alt="profile view Page view">
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/user%20profile%20page.png" alt="profile view Page view">
 
-  ## update page view
-  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/upadate%20page.png" alt="update page view">
+  ## Edit Profile page view
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/Edit%20profile%20page.png" alt="update page view">
   
-  ## Safety Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/safty.png" alt=" safty Page view">
+  ## change password Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/change%20password%20page.png" alt=" safty Page view">
+
+   ## Delete Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/delete%20account%20page.png" alt=" safty Page view">
+
+   ## Safety Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/saftey%20page.png" alt=" safty Page view">
 
   ## complaint page view
-  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/compalit%20page.png" alt="complaint page view">
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/register%20complaint%20page.png" alt="complaint page view">
   
   ## complaint history page view
-  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/image/complaint%20history%20page.png" alt="complaint history page view">
+  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/compalint%20history%20page.png" alt="complaint history page view">
+
+   ## compliant pdf Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/compliant%20pdf%20view.png" alt="compliant pdf Page view">
+
+   ## admin login Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/admin%20login%20page.png" alt="admin login Page view">
+
+   ## admin main Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/admin%20main%20page.png" alt="admin Page view">
+
+   ## user deatil Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/vie%20user%20detailes.png" alt="user deatail Page view">
+
+   ## admin user edit Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20user%20pop%20modal.png" alt="admin user Page view">
+
+   ## admin compliant histroy Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/complaint%20history%20table.png" alt="admin compliant histroy Page view">
+
+   ## admin compliant status edit Page view
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20complaint%20status.png" alt="admin user Page view">
 
 ## Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com
