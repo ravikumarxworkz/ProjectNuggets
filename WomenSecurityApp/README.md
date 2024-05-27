@@ -64,20 +64,47 @@ The New Password And Confirmed Password Must Match.
 - **Complaint Status Editing:** Modify Complaint Statuses To Reflect The Current Resolution Stage.
 - **Complaint Copy Download** :Download PDF Copies Of Registered Complaints For Reference Or Further Action
 
-
-## How to Run
-To run the WomenSecurityApp project:
-1. Clone this repository.
-2. Set up the necessary environment and dependencies.
-3. Run the project locally using a web server.
-
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend:  Java ,Java Servlets ,JPA
+  ## Technologies Used
+- Frontend: HTML, CSS, JavaScript ,AJAX
+- Backend:  Java ,Spring MVC ,JPA
 - Database:  MySQL.
 - Security: Passwords Are Encrypted Using Advanced Techniques, With Spring Security Employed For Authentication And Authorization
-- Email Integration:Java Mail Sender Techniques Are Utilized For Email Notifications And Password Reset Functionalities
+- Email Integration:Java Mail Sender Techniques Are Utilized For Email Notifications ,Email confrimation Authentication ,admin login OTP And Password Reset Functionalities
 - Documentation: Documented Project Functionalities And Setup Instructions For Ease Of Understanding And Replication.
+
+## How to Run and Usage
+
+### Cloning the Repository
+To run the WomenSecurityApp project:
+- Clone the repository to your local machine: Use Git to clone the project repository onto your computer.
+
+### Backend Setup
+- **Database Configuration:** Create a database named "womensecurity" and define the following four tables:
+    - **Table 1: womendetails**
+        - Columns: id (int AI PK), username (varchar(255)), aadharcardnumber (bigint), contactNumber (bigint), altContactNumber (bigint), email (varchar(255)), country (varchar(255)), state (varchar(255)), presentplace (varchar(255)), pincode (int), password (varchar(255)), imagePath (varchar(255)), otp (varchar(45))
+    - **Table 2: complaints**
+        - Columns: id (int AI PK), name (varchar(255)), incidentTiming (datetime), place (varchar(255)), aboutIncident (text), contactNumber (bigint), email (varchar(255)), complaintNumber (int), status (varchar(45))
+    - **Table 3: email_validation**
+        - Columns: id (int AI PK), email (varchar(255)), otp (varchar(45)), created_at (timestamp)
+    - **Table 4: admin_detailes**
+        - Columns: admin_Id (int AI PK), admin_Name (varchar(255)), admin_emailId (varchar(255)), admin_password (varchar(200)), login_otp (varchar(45))
+
+### Mail Configuration
+- **Mail Settings:** Configure mail settings by locating the `MailConfiguration.java` class in the backend server. Set the email ID and password for sending emails. Additionally, locate the `MailSending.java` class and set the email ID for sending emails. For more information on obtaining the email password, refer to your email service provider's documentation or support resources. You can also refer to [this guide](https://www.tothenew.com/blog/step-by-step-guide-sending-emails-in-spring-boot/) for more details.
+
+### Apache Tomcat Setup
+- **Tomcat Server:** Install and configure Apache Tomcat server on your machine. Follow the official documentation or relevant tutorials for detailed instructions.
+
+### Default Admin Credentials
+- Email: admin@example.com
+- Password: Passw0rd! (contains one capital letter, one small letter, one special character, one digit, and length between 8 to 20 characters)
+
+### Running the Application
+- **Deployment:** Deploy the application to Apache Tomcat server and navigate to its URL in your web browser.
+- **Navigation:** Use the provided links and buttons within the application to navigate between different pages or sections.
+- **Data Input:** Fill in the required details accurately within the application interface.
+
+  
     # # Home Page view
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/home%20page.png" alt="Home Page view" >
  
@@ -131,7 +158,22 @@ To run the WomenSecurityApp project:
  <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/complaint%20history%20table.png" alt="admin compliant histroy Page view">
 
    ## admin compliant status edit Page view
- <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20complaint%20status.png" alt="admin user Page view">
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/edit%20complaint%20status.png" alt="admin compliant status edit Page view">
+
+   ## Email Verification OTP Meassage 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/email%20verification%20otp.png" alt=" email verificstion Page view">
+
+   ##  Register Email Meassge 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/register%20email.png" alt=" email Register Page view">
+
+   ##  Rest Password Email OTP meaasge 
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/password%20rest%20email.png" alt=" email Register Page view">
+
+   ##   Password Change successful Email  
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/password%20chnaged%20successfully%20email.png" alt="  Password Change successful Email ">
+
+   ##   Admin Login OTP  Email  Message
+ <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/WomenSecurityApp/images/admin%20login%20otp.png" alt="  Admin Login OTP  Email  Message">
 
 ## Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com
