@@ -19,6 +19,9 @@ This project is a simple calculator application implemented in [insert programmi
 ## image view
 <img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/Calculater/images/Screenshot%20(257).png">
 
+# Scientific Calculator View
+<img src="https://github.com/ravikumarxworkz/ProjectNuggets/blob/main/Calculater/images/Scientific%20calculator%20.jpeg">
 
-## Contact
+
+# Contact
 For any questions or inquiries, feel free to contact me via email  rkkumbar97@gmail.com.
